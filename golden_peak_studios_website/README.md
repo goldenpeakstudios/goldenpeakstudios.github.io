@@ -17,7 +17,8 @@
 
 - `npm i`
 - `npm run build`
-- push changes to goldenpeakstudios.github.io repository
+- copy content of `out` folder to repository root
+- push changes
 
 ## develop
 
