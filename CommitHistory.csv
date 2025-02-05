@@ -1,0 +1,10 @@
+92a03a5,Marco Venditto,10 weeks ago,fix minor wording errors (german)
+6cc5499,Marco Venditto,2 months ago,change icon from ico to png
+5065861,Marco Venditto,2 months ago,add ico file
+ff94b2f,Marco Venditto,2 months ago,change fully to plain html
+186f86a,Marco Venditto,2 months ago,adapt assetprefix for build
+5cbc8f3,Marco Venditto,2 months ago,Initial commit for GitHub Pages 2.0
+3b1b0bc,Marco Venditto,2 months ago,move readme to project folder
+f8e17f5,Marco Venditto,2 months ago,update gitignore again and change build destination to root/docs
+4304731,Marco Venditto,2 months ago,adapt gitignore to include out folder
+239abbe,Marco Venditto,2 months ago,Initial commit for GitHub Pages
