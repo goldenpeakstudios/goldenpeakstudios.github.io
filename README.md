@@ -3,15 +3,15 @@
 ## authors:
 
 ### idea:
-- Marco Venditto, BSc
+- Marco Venditto, MSc
 
 ### development:
 
 #### lead:
-- Marco Venditto, BSc
+- Marco Venditto, MSc
 
 #### assistance:
-- Jonas Kubesch, BSc
+- Jonas Kubesch, MSc
 
 ## deploy:
 
